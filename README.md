@@ -1,4 +1,4 @@
-# 💰 Ứng dụng Quản Lý Chi Tiêu Cá Nhân
+#  Ứng dụng Quản Lý Chi Tiêu Cá Nhân
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green.svg)](https://docs.python.org/3/library/tkinter.html)
@@ -10,24 +10,24 @@
 ## ✨ Tính Năng Nổi Bật
 
 ### 👤 Quản Lý Người Dùng
-- ✅ **Đăng ký & Đăng nhập** tài khoản cá nhân
-- ✅ **Lưu trữ riêng tư** dữ liệu theo từng user trên Firebase
-- ✅ **Đăng xuất** và bảo mật thông tin
+-  **Đăng ký & Đăng nhập** tài khoản cá nhân
+-  **Lưu trữ riêng tư** dữ liệu theo từng user trên Firebase
+-  **Đăng xuất** và bảo mật thông tin
 
 ### 💳 Quản Lý Chi Tiêu
-- ✅ **Thêm/Xóa/Sửa** khoản chi tiêu
-- ✅ **Phân loại theo danh mục** (Ăn uống, Mua sắm, Giải trí, ...)
-- ✅ **Lọc dữ liệu** theo Ngày/Tuần/Tháng/Danh mục
+-  **Thêm/Xóa/Sửa** khoản chi tiêu
+-  **Phân loại theo danh mục** (Ăn uống, Mua sắm, Giải trí, ...)
+-  **Lọc dữ liệu** theo Ngày/Tuần/Tháng/Danh mục
 
 ### 📊 Thống Kê & Báo Cáo
-- ✅ **Biểu đồ cột (Bar Chart)** - So sánh chi tiêu theo thời gian
-- ✅ **Biểu đồ tròn (Pie Chart)** - Phân bổ chi tiêu theo danh mục
-- ✅ **Thống kê realtime** - Cập nhật tức thì
+-  **Biểu đồ cột (Bar Chart)** - So sánh chi tiêu theo thời gian
+-  **Biểu đồ tròn (Pie Chart)** - Phân bổ chi tiêu theo danh mục
+-  **Thống kê realtime** - Cập nhật tức thì
 
 ### 👑 Chức Năng Admin
-- ✅ **Xem danh sách người dùng**
-- ✅ **Theo dõi tổng chi tiêu** từng user
-- ✅ **Phân quyền Admin/User** linh hoạt
+-  **Xem danh sách người dùng**
+-  **Theo dõi tổng chi tiêu** từng user
+-  **Phân quyền Admin/User** linh hoạt
 
 ## 🛠 Công Nghệ Sử Dụng
 
