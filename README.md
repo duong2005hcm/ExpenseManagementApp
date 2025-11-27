@@ -44,3 +44,5 @@ matplotlib        # Vẽ biểu đồ thống kê
 tkcalendar        # Lịch chọn ngày
 Pillow            # Xử lý hình ảnh UI
 datetime          # Xử lý ngày tháng
+
+### **Cài đặt và Ứng dụng**
