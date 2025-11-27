@@ -32,7 +32,7 @@
 ## 🛠 Công Nghệ Sử Dụng
 
 ### **Ngôn ngữ & Framework**
-- `Python 3.8+` - Ngôn ngữ lập trình chính
+- `Python 3.11+` - Ngôn ngữ lập trình chính
 - `Tkinter` - Giao diện người dùng đồ họa
 - `Firebase Realtime Database` - Cơ sở dữ liệu thời gian thực
 
