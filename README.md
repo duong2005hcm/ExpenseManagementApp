@@ -36,6 +36,25 @@
 - `Tkinter` - Giao diện người dùng đồ họa
 - `Firebase Realtime Database` - Cơ sở dữ liệu thời gian thực
 
+## ⚙️ How to Run Locally
+```bash
+git clone https://github.com/duong2005hcm/ExpenseManagementApp.git
+cd expense-manager-app
+pip install -r requirements.txt
+python src/index.py
+
+myProjectapp/
+│
+├── src/
+│   ├── assets/                  # chứa hình nền & icon
+│   │   ├── background.avif
+│   │
+│   ├── backend.py               # xử lý database & firebase
+│   ├── index.py                 # file chạy chính — giao diện Tkinter
+│   ├── settings_window.py       # settings giao diện & chức năng
+│   ├── serviceAccountKey.json   # private key firebase
+│   ├── README.md
+
 ### **Thư Viện Python**
 ```python
 firebase_admin    # Kết nối Firebase
