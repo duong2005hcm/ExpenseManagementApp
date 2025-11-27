@@ -45,4 +45,3 @@ tkcalendar        # Lịch chọn ngày
 Pillow            # Xử lý hình ảnh UI
 datetime          # Xử lý ngày tháng
 
-### **Thư Viện Python**
