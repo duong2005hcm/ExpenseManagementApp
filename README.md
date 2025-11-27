@@ -1,6 +1,6 @@
 #  Ứng dụng Quản Lý Chi Tiêu Cá Nhân
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
+[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://python.org)
 [![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green.svg)](https://docs.python.org/3/library/tkinter.html)
 [![Firebase](https://img.shields.io/badge/Database-Firebase-orange.svg)](https://firebase.google.com)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
